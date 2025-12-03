@@ -1,2 +1,1 @@
-# automatic-meme
-mi primer repositorio en github
+# Mi Proyecto Git
